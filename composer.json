@@ -3,5 +3,6 @@
     "description": "Framework for simplify your form",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
     "require": {}
 }
