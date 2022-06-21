@@ -19,4 +19,4 @@
 </ul>
 
 # VERSION
-<small>1.2 - Kampret Software Team</small>
+<small>- 1.2 - Kampret Software Team</small>
