@@ -4,5 +4,6 @@
     "type": "library",
     "license": "MIT",
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "autoload": {}
 }
