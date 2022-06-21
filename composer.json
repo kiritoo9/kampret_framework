@@ -1,0 +1,7 @@
+{
+    "name": "kampret/framework",
+    "description": "Framework for simplify your form",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
